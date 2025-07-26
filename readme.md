@@ -9,9 +9,9 @@ A for-fun programming language with mechanics I like. For example:
 - [x] Functions and types are first-class and can be passed around
 - [x] Built-in arrays, tuples, dictionaries, and ranges
 - [x] Identifier naming conventions enforced at the language level
-- Capitalized identifiers are types
-- lowercase identifiers are variables and functions
-- UPPERCASE identifiers are constants
+	- Capitalized identifiers are types
+	- lowercase identifiers are variables and functions
+	- UPPERCASE identifiers are constants
 
 ---
 
